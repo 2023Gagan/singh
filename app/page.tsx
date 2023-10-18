@@ -51,7 +51,7 @@ const page = () => {
       {/* picture */}
       <div>
         <Image 
-          src='/Kumarpanama.jpg'
+          src='/Kumar.jpg'
           alt=''
           width={500}
           height={500}
